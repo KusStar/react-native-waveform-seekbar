@@ -57,5 +57,5 @@ repositories {
 dependencies {
   implementation "com.facebook.react:react-native:+"
   implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-  compileOnly 'com.github.lincollincol:amplituda:2.1.0'
+  implementation  'com.github.massoudss:waveformSeekBar:4.1.0'
 }
